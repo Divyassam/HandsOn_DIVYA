@@ -1,0 +1,9 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\obj\Debug\DivyaWindowsService.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\obj\Debug\DivyaWindowsService.ProjectInstaller.resources
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\obj\Debug\DivyaWindowsService.csproj.GenerateResource.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\obj\Debug\DivyaWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\obj\Debug\DivyaWindowsService.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\obj\Debug\DivyaWindowsService.pdb

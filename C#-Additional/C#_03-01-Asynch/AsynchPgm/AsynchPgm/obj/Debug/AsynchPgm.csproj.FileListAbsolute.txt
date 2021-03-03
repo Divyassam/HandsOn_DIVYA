@@ -1,0 +1,6 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsynchPgm\AsynchPgm\bin\Debug\AsynchPgm.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsynchPgm\AsynchPgm\bin\Debug\AsynchPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsynchPgm\AsynchPgm\bin\Debug\AsynchPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsynchPgm\AsynchPgm\obj\Debug\AsynchPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsynchPgm\AsynchPgm\obj\Debug\AsynchPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsynchPgm\AsynchPgm\obj\Debug\AsynchPgm.pdb

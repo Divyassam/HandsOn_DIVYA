@@ -1,0 +1,9 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\bin\Debug\AsyncAwait2.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\bin\Debug\AsyncAwait2.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\bin\Debug\AsyncAwait2.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.Properties.Resources.resources
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.csproj.GenerateResource.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.pdb

@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.InstallLog
+   assemblypath = C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.InstallLog
+   assemblypath = C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe
+Uninstalling assembly 'C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.InstallLog
+   assemblypath = C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_03-02-Windows\DivyaWindowsService\DivyaWindowsService\bin\Debug\DivyaWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

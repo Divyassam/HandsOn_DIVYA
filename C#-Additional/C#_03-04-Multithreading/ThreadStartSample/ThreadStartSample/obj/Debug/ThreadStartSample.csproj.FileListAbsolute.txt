@@ -1,0 +1,7 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Multithreading2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Form1.resources
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Properties.Resources.resources
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csproj.GenerateResource.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.pdb

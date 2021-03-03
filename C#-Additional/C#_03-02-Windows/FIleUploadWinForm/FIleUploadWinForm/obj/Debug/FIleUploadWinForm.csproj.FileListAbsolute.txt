@@ -1,0 +1,10 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\bin\Debug\FIleUploadWinForm.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\bin\Debug\FIleUploadWinForm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\bin\Debug\FIleUploadWinForm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.Form1.resources
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.Properties.Resources.resources
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.csproj.GenerateResource.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-02-Windows\FIleUploadWinForm\FIleUploadWinForm\obj\Debug\FIleUploadWinForm.pdb

@@ -1,0 +1,13 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_HandsOn_Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\C#_03-01-Asynch\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb
