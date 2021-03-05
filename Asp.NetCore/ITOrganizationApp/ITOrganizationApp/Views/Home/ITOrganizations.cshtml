@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "ITOrganizations";
+    List<string> str = new List<string>() { "Microsoft", "CTS", "Amazon", "TCS" };
+}
+
+<h1>ITOrganizations</h1>
+@foreach (var i in str)
+{
+    if (i == "Amazon")
+    {
+        <div><b>@i</b></div>
+    }
+    else
+    {
+        <div>@i</div>
+    }
+}

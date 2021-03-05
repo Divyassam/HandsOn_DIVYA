@@ -1,0 +1,13 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\bin\Debug\netcoreapp3.1\HelloWorldConsole.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\bin\Debug\netcoreapp3.1\HelloWorldConsole.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\bin\Debug\netcoreapp3.1\HelloWorldConsole.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\bin\Debug\netcoreapp3.1\HelloWorldConsole.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\bin\Debug\netcoreapp3.1\HelloWorldConsole.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\bin\Debug\netcoreapp3.1\HelloWorldConsole.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Basic .netCore\HelloWorldConsole\HelloWorldConsole\obj\Debug\netcoreapp3.1\HelloWorldConsole.genruntimeconfig.cache

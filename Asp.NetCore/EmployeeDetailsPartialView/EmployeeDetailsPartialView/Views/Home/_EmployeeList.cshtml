@@ -1,0 +1,26 @@
+﻿@model List<Employee>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "GetEmployeeList";
+}
+
+<h1>GetEmployeeList</h1>
+
+<br />
+@foreach (var i in Model)
+{
+    if (i.IsPermanent)
+    {
+
+        <div class="row">
+            <Span class="col-md-4"><b>@i.Name @i.Salary</b></Span>
+        </div>
+    }
+    else
+    {
+
+        <div class="row">
+            <Span class="col-md-4">@i.Name @i.Salary</Span>
+        </div>
+    }
+}
