@@ -1,0 +1,18 @@
+2021-03-09 12:26:46,487 [1] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 12:26:46,515 [1] INFO  App  
+ Starting host Application 
+ 
+2021-03-09 12:26:48,746 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-09 12:26:48,751 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-09 12:26:48,760 [1] INFO  App  
+ Content root path: C:\Users\890405\source\repos\Stage3\HandsOn\AspNet_Core\Log4Net_logging\Log4Net_logging\Log4Net_logging 
+ 
+2021-03-09 12:26:49,255 [4] INFO  App  
+ Running Home/Index 
+ 

@@ -1,0 +1,9 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.CodeAnalysisLog.xml
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.lastcodeanalysissucceeded
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\CodeAnalysis\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
