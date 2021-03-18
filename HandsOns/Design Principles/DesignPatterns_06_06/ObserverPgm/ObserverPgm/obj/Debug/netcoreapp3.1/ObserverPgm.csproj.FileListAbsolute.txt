@@ -1,0 +1,13 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\bin\Debug\netcoreapp3.1\ObserverPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\bin\Debug\netcoreapp3.1\ObserverPgm.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\bin\Debug\netcoreapp3.1\ObserverPgm.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\bin\Debug\netcoreapp3.1\ObserverPgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\bin\Debug\netcoreapp3.1\ObserverPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\bin\Debug\netcoreapp3.1\ObserverPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_06\ObserverPgm\ObserverPgm\obj\Debug\netcoreapp3.1\ObserverPgm.genruntimeconfig.cache

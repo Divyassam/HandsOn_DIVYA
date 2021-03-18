@@ -1,0 +1,13 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\bin\Debug\netcoreapp3.1\MediatorPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\bin\Debug\netcoreapp3.1\MediatorPgm.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\bin\Debug\netcoreapp3.1\MediatorPgm.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\bin\Debug\netcoreapp3.1\MediatorPgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\bin\Debug\netcoreapp3.1\MediatorPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\bin\Debug\netcoreapp3.1\MediatorPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_05\MediatorPgm\MediatorPgm\obj\Debug\netcoreapp3.1\MediatorPgm.genruntimeconfig.cache

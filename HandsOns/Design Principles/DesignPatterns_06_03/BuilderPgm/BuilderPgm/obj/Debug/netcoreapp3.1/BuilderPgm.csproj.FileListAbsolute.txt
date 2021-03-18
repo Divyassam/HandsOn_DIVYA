@@ -1,0 +1,26 @@
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.exe
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.deps.json
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.runtimeconfig.json
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.dll
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.pdb
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.dll
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.pdb
+C:\Users\890405\source\repos\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.genruntimeconfig.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\bin\Debug\netcoreapp3.1\BuilderPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_03\BuilderPgm\BuilderPgm\obj\Debug\netcoreapp3.1\BuilderPgm.genruntimeconfig.cache

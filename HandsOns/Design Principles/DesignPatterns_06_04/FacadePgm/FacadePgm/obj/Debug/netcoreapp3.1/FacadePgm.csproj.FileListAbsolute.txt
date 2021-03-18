@@ -1,0 +1,13 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\bin\Debug\netcoreapp3.1\FacadePgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\bin\Debug\netcoreapp3.1\FacadePgm.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\bin\Debug\netcoreapp3.1\FacadePgm.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\bin\Debug\netcoreapp3.1\FacadePgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\bin\Debug\netcoreapp3.1\FacadePgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\bin\Debug\netcoreapp3.1\FacadePgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\FacadePgm\FacadePgm\obj\Debug\netcoreapp3.1\FacadePgm.genruntimeconfig.cache

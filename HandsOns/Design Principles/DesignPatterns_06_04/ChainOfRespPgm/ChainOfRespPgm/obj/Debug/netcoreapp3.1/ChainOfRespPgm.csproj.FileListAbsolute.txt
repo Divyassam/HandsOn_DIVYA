@@ -1,0 +1,13 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\bin\Debug\netcoreapp3.1\ChainOfRespPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\bin\Debug\netcoreapp3.1\ChainOfRespPgm.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\bin\Debug\netcoreapp3.1\ChainOfRespPgm.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\bin\Debug\netcoreapp3.1\ChainOfRespPgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\bin\Debug\netcoreapp3.1\ChainOfRespPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\bin\Debug\netcoreapp3.1\ChainOfRespPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\DesignPatterns_06_04\ChainOfRespPgm\ChainOfRespPgm\obj\Debug\netcoreapp3.1\ChainOfRespPgm.genruntimeconfig.cache

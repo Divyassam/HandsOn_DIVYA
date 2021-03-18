@@ -1,0 +1,12 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\bin\Debug\netcoreapp3.1\SingletonPgm.exe
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\bin\Debug\netcoreapp3.1\SingletonPgm.deps.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\bin\Debug\netcoreapp3.1\SingletonPgm.runtimeconfig.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\bin\Debug\netcoreapp3.1\SingletonPgm.runtimeconfig.dev.json
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\bin\Debug\netcoreapp3.1\SingletonPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\bin\Debug\netcoreapp3.1\SingletonPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\obj\Debug\netcoreapp3.1\SingletonPgm.AssemblyInfoInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\obj\Debug\netcoreapp3.1\SingletonPgm.AssemblyInfo.cs
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\obj\Debug\netcoreapp3.1\SingletonPgm.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\obj\Debug\netcoreapp3.1\SingletonPgm.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\obj\Debug\netcoreapp3.1\SingletonPgm.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\Design Principles\SOLID_Principles_06_02\SingletonPgm\SingletonPgm\obj\Debug\netcoreapp3.1\SingletonPgm.genruntimeconfig.cache
