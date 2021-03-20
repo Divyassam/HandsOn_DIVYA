@@ -1,0 +1,7 @@
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe.config
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.pdb
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\890405\source\repos\Stage3\Casestudy\DesignPrinciples_Practice\AbstractFactoryCaseStudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.pdb
