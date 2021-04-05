@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        .row.display-1 {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .col-sm-4 {
+            background-color: plum;
+            padding-left: 25px
+        }
+
+        .col-sm-8 {
+            background-color: darkseagreen;
+            padding-left: 25px;
+        }
+
+        .navbar {
+            width: 100%;
+            margin-bottom: 0;
+            border-radius: 0;
+        }
+
+        .form1 {
+            padding: 0px 25px 10px 0px;
+        }
+
+        .material-icons {
+            vertical-align: middle;
+            font-size: 15px;
+        }
+    </style>
+    <title>H-Track</title>
+</head>
+<body>
+
+    <!-- navbar navbar-inverse navbar-static-top used for static hamburger menu -->
+    <nav class="navbar navbar-inverse  navbar-expand-md" role="navigation">
+
+        <div class="container">
+            <a class="navbar-brand mr-auto" href="#">hTrack</a>
+
+            <!-- container gives content bootstrap alignment -->
+            <div class="navbar-header">
+                <!-- navbar-header gives header -->
+                <!-- navbar-toggle collapsed for hide the content -->
+                <button type="button" class="navbar-toggle collapsed "
+                        data-toggle="collapse" data-target="#menu">
+                    <!-- sr-only gives feature, hides elements from all devices except screen -->
+                    <span class="sr-only">Hamburger Menu</span> <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    <!-- icon-bar creates structure like triple equal -->
+                </button>
+
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="nav navbar-collapse" id="menu">
+                <!--nav navbar-nav used to sets the navigation bar size( either increase or reduce) -->
+                <ul class="nav navbar-nav ml-auto text-right">
+                    <li><a href="hTrack.html"><i class="material-icons md-18 small">home</i>Home</a></li>
+                    <li><a href="productPage.html">Products</a></li>
+                    <li><a href="#">Goal</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <div class="row ">
+        <div class="col-sm-8">
+            <h3>Benefits</h3>
+            <ul>
+                <li>Set Goals</li>
+                <li>Recieve customized notifications</li>
+                <li>Get tips from experts and coaches</li>
+            </ul>
+        </div>
+        <div class="col-sm-4">
+            <h3>Login</h3>
+            <form class="form1">
+                <div class="form-group">
+                    <label for="email">Email address:</label>
+                    <input type="email" class="form-control" id="email">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Password:</label>
+                    <input type="password" class="form-control" id="pwd">
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox"> Remember me</label>
+                </div>
+                <button type="submit" class="btn btn-default">LOGIN</button>
+            </form>
+        </div>
+    </div>
+
+    <!--Listing Items-->
+    <div class="col-sm-5 ml-auto">
+        <h3>Events</h3>
+        <ul class="list-group">
+            <li class="list-group-item">
+                <small><i class="material-icons">calendar_today</i>SEP 17, TUESDAY</small>
+                <h4>Annual Hackathon</h4>
+                <small>Elte Trefortkert belso utak 1088 Hungary, Budapest</small>
+            </li>
+            <li class="list-group-item">
+                <small><i class="material-icons">calendar_today</i>SEP 25, WEDNESDAY</small>
+                <h4>Seminar on Big Data</h4>
+                <small>Willy-Brandt-StraBe, 20095 Hamburg, Germany</small>
+            </li>
+            <li class="list-group-item">
+                <small><i class="material-icons">calendar_today</i>AUG 26, MONDAY</small>
+                <h4>Workshop On Agile Scrum</h4>
+                <small>The Banqueting House, 61 WHitehall, Westminster, London SW1A 2ET, United Kingdom</small>
+            </li>
+        </ul>
+    </div>
+
+
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>

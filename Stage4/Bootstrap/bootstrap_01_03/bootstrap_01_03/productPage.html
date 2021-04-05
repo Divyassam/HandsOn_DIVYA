@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    <style>
+
+        .navbar {
+            width: 100%;
+            margin-bottom: 0;
+            border-radius: 0;
+        }
+
+        .material-icons {
+            vertical-align: middle;
+            font-size: 15px;
+        }
+
+        .card {
+            margin-bottom: 50px;
+            border-style: none;
+        }
+
+        .rating-green {
+            background-color: mediumseagreen;
+            border-radius: 3px;
+            padding: 2px;
+            font-size: small;
+            color: white;
+        }
+
+        .rating-orange {
+            background-color: orange;
+            border-radius: 3px;
+            padding: 2px;
+            font-size: small;
+            color: black;
+        }
+
+        .rating-red {
+            background-color: red;
+            border-radius: 3px;
+            padding: 2px;
+            font-size: small;
+            color: white;
+        }
+        .iconify{
+            color:darkred;
+        }
+        .card button {
+            background-color: forestgreen;
+            border-radius: 3px;
+            padding: 5px;
+            color:white;
+            border-style:none;
+        }
+        .addFav i:hover {
+            align-content:end;
+            cursor: pointer;
+            color: red;
+        }
+    </style>
+    <title>H-Track</title>
+</head>
+<body>
+
+    <!-- navbar navbar-inverse navbar-static-top used for static hamburger menu -->
+    <nav class="navbar navbar-inverse  navbar-expand-md" role="navigation">
+
+        <div class="container">
+            <a class="navbar-brand mr-auto" href="#">hTrack</a>
+
+            <!-- container gives content bootstrap alignment -->
+            <div class="navbar-header">
+                <!-- navbar-header gives header -->
+                <!-- navbar-toggle collapsed for hide the content -->
+                <button type="button" class="navbar-toggle collapsed "
+                        data-toggle="collapse" data-target="#menu">
+                    <!-- sr-only gives feature, hides elements from all devices except screen -->
+                    <span class="sr-only">Hamburger Menu</span> <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    <!-- icon-bar creates structure like triple equal -->
+                </button>
+
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="nav navbar-collapse" id="menu">
+                <!--nav navbar-nav used to sets the navigation bar size( either increase or reduce) -->
+                <ul class="nav navbar-nav ml-auto text-right">
+                    <li><a href="hTrack.html"><i class="material-icons md-18 small">home</i>Home</a></li>
+                    <li><a href="productPage.html">Products</a></li>
+                    <li><a href="#">Goal</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <!--Product Cards-->
+    <div class="container">
+        <h3>Products</h3>
+        <div class="row ">
+            <div class="col-sm-3 card ">
+                <div><img class="card-img-top embed-responsive-item" src="https://images.unsplash.com/photo-1526947425960-945c6e72858f?ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" /></div>
+                <div class="card-block">
+                    <h4 class="card-title">Coca Oil (200g) <span class="rating-green">4.4 <i class="material-icons  md-18 small" style="color:white">star_rate</i></span></h4>
+                    <h5>Rs. 200.00 <span class="small"><del>Rs.250.00</del> 20% </span><span class="iconify" data-icon="mdi:alert-decagram" data-inline="false"></span></h5>
+                    <p class="card-text">Coco oil is a plant oil derived from the kernels, meat, and milk of the coconut palm and fruit. It is used as a food oil, and in industrial applications. It has high levels of saturated fat, causing some health authorities to recommend limiting consumption of coconut oil as a food. </p>
+                    <button><i class="material-icons md-18 small" style="color:white">shopping_cart</i> Add to Cart</button>
+                    <span class="addFav ml-5"><i class="material-icons md-18">favorite_border</i></span>
+                </div>
+            </div>
+            <div class="col-sm-3 card">
+                <div><img class="card-img-top embed-responsive-item" src="https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjV8fHByb2R1Y3R8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" /></div>
+                <div class="card-block">
+                    <h4 class="card-title">Maui Moisture (305 ml) <span class="rating-orange">3.1 <i class="material-icons md-18 small" style="color:black">star_rate</i></span></h4>
+                    <h5>Rs. 200.00 <span class="small"><del>Rs.250.00</del> 20% </span><span class="iconify" data-icon="mdi:alert-decagram" data-inline="false"></span></h5>
+                    <p class="card-text">
+                        Maui Moisture Vegan Hair Care starts with 100% pure Aloe Vera, nature's time-tested moisture miracle as its first ingredient. Add in a blend with pure coconut water and other tropical ingredients, and you’ve got a vegan collection that provides perfectly hydrating moisture to keep your curls popping!
+                    </p>
+                    <button><i class="material-icons md-18 small" style="color:white">shopping_cart</i> Add to Cart</button>
+                    <span class="addFav ml-5"><i class="material-icons md-18">favorite_border</i></span>
+                </div>
+            </div>
+            <div class="col-sm-3 card">
+                <div><img class="card-img-top embed-responsive-item" src="https://images.unsplash.com/photo-1519735777090-ec97162dc266?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8&auto=format&fit=crop&w=400&q=60" /></div>
+                <div class="card-block">
+                    <h4 class="card-title">Mad About Waves (500 ml) <span class="rating-orange">3.4 <i class="material-icons md-18 small" style="color:black">star_rate</i></span></h4>
+                    <h5>Rs. 150.00 <span class="small"><del>Rs.200.00</del> 25% </span><span class="iconify" data-icon="mdi:alert-decagram" data-inline="false"></span></h5>
+                    <p class="card-text">
+                        Mad about Waves is the holistic care and styling regime dedicated to beautifying every wave type. The range is designed to tame, respect and protect the hair – embracing each unique pattern, for breezy waves that last. Embrace your waves and be Mad about them!
+                    </p>
+                    <button><i class="material-icons md-18 small" style="color:white">shopping_cart</i> Add to Cart</button>
+                    <span class="addFav ml-5"><i class="material-icons md-18">favorite_border</i></span>
+                </div>
+            </div>
+            <div class="col-sm-3 card">
+                <div><img class="card-img-top embed-responsive-item" src="https://images.unsplash.com/photo-1610595426075-eed5a3f521ee?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8&auto=format&fit=crop&w=400&q=60" /></div>
+                <div class="card-block">
+                    <h4 class="card-title">Botanical Shampoo (200 ml) <span class="rating-red">2.3 <i class="material-icons md-18 small" style="color:white">star_rate</i></span></h4>
+                    <h5>Rs. 455.00 </h5>
+                    <p class="card-text">Botanical Repair Shampoo is a bond-building shampoo with plant-power that strengthens and repairs damaged hair. It gently cleanses with Babassu-Betaine and removes sebum and residues and pollution. The gentle shampoo has been developed for stressed hair because its special formula prevents hair friction to avoid further damage.</p>
+                    <button><i class="material-icons md-18 small" style="color:white">shopping_cart</i> Add to Cart</button>
+                    <span class="addFav ml-5"><i class="material-icons md-18">favorite_border</i></span>
+                </div>
+            </div>
+            <div class="col-sm-3 card">
+                <div><img class="card-img-top embed-responsive-item" src="https://images.unsplash.com/photo-1525904097878-94fb15835963?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8&auto=format&fit=crop&w=400&q=60" /></div>
+                <div class="card-block">
+                    <h4 class="card-title">Curology Set (4 items) <span class="rating-green">4.9 <i class="material-icons md-18 small" style="color:white">star_rate</i></span></h4>
+                    <h5>Rs. 150.00 <span class="small"><del>Rs.200.00</del> 25% </span><span class="iconify" data-icon="mdi:alert-decagram" data-inline="false"></span></h5>
+                    <p class="card-text"> A 2-month supply of the cleanser comes bundled into the 3-step Curology set, which includes the cleanser, prescription superbottle, and moisturizer — all for a total of $59.90. Our lab works hard to keep costs low and quality high, because good skincare shouldn't have to break the bank!</p>
+                    <button><i class="material-icons md-18 small" style="color:white">shopping_cart</i> Add to Cart</button>
+                    <span class="addFav ml-5"><i class="material-icons md-18">favorite_border</i></span>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>
